@@ -9,6 +9,9 @@ Dataset1 contains three files: jpg, png, train.txt.<p>
   jpg stores original training images.<p>
   png stores label images.<p>
   train.txt provides the path of images.<p>
+    
+Link: https://pan.baidu.com/s/18Z_GOxpUwGv6P0hVHhdoNA <p>
+Extraction code: SKV7：abcd <p>
   
 ## Train
 when you want to train your own model, you need run **train.py**. Trained model will svaed in logs.
